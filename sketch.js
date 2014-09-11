@@ -1,6 +1,6 @@
 function setup() {
   createCanvas(640, 480);
-  background(128, 0, 64);
+  background(128, 0, 65);
   noFill();
 
   stroke(255, 0, 0);
